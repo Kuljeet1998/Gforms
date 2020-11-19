@@ -193,3 +193,5 @@ JENKINS_TASKS = (
     'django_jenkins.tasks.run_csslint',
     'django_jenkins.tasks.run_sloccount'
 )
+
+# 4096 SHA256:uHC1J/ncL7Q32lOZJ8X9mCxQgeq5QyG7pT8h3GB3CbM kuljeet@zaya.in (RSA)
